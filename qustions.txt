@@ -1,0 +1,1 @@
+Design a arduino board with one led light. which will blink in after every 2sec.
